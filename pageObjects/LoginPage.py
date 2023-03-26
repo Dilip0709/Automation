@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 class LoginPage:
     textbox_username_id = "Email"
     textbox_password_id = "Password"
-    button_login_xpath = "/html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[3]/button"
+    button_login_xpath = "//button[contains(text(),'Log in')]"
     button_logout_xpath = "//*[@id='navbarText']/ul/li[3]/a"
 
     #Action method for every locator

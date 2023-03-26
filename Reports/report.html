@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 26-Mar-2023 at 21:10:39 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 27-Mar-2023 at 01:18:51 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -275,8 +275,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Dilip</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 15.23 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 38.47 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -290,23 +290,20 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_login.py::Test_001_Login::test_homePageTitle</td>
-          <td class="col-duration">5.40</td>
+          <td class="col-name">testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
+          <td class="col-duration">37.78</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:15 ************ Test_001_Login **************
-INFO     root:test_login.py:16 ************ Verifying Home Page Title **************
-INFO     root:test_login.py:23 ********** Home Page Title Test is passed ***********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_login.py::Test_001_Login::test_login</td>
-          <td class="col-duration">9.73</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:32 ********** Verifying Login Test ***********
-INFO     root:test_login.py:43 ********** Verifying Login Test is passed ***********<br/></div></td></tr></tbody></table></body></html>
+<br/> ------------------------------Captured stdout call------------------------------ <br/>Number of Rows in a Excel: 5
+********** Completed TC_LoginDDT_002 **********
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login_ddt.py:16 ********** Test_002_DDT_Login ************
+INFO     root:test_login_ddt.py:17 ********** Verifying Login DDT Test ***********
+INFO     root:test_login_ddt.py:43 ******** Passed *******
+INFO     root:test_login_ddt.py:55 ***** passed *****
+INFO     root:test_login_ddt.py:55 ***** passed *****
+INFO     root:test_login_ddt.py:55 ***** passed *****
+INFO     root:test_login_ddt.py:59 Login DDT test passed....
+INFO     root:test_login_ddt.py:65 ********** End of Login DDT Test **********
+INFO     root:test_login_ddt.py:66 ********** Completed TC_LoginDDT_002 **********<br/></div></td></tr></tbody></table></body></html>
