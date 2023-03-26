@@ -22,10 +22,11 @@ class Test_001_Login:
             self.driver.close()
             self.logger.info("********** Home Page Title Test is passed ***********")
         else:
+            assert False
             self.driver.save_screenshot(".\\Screenshots\\"+"test_homePageTitle.png")
             self.driver.close()
             self.logger.error("********** Home Page Title Test is Failed ***********")
-            assert False
+            
      
     def test_login(self,setup):
         self.logger.info("********** Verifying Login Test ***********")
@@ -42,7 +43,7 @@ class Test_001_Login:
             self.logger.info("********** Verifying Login Test is passed ***********")
             self.driver.close()
         else:
+            assert False
             self.driver.save_screenshot(".\\Screenshots\\"+"test_login.png")
-            self.driver.close()
             self.logger.error("********** Verifying Login Test is Failed ***********")
-            assert False    
+            self.driver.close()
