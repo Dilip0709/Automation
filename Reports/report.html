@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 27-Mar-2023 at 01:18:51 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 29-Mar-2023 at 16:05:33 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -275,8 +275,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Dilip</td></tr></table>
     <h2>Summary</h2>
-    <p>1 tests ran in 38.47 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>5 tests ran in 124.10 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">5 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -290,8 +290,48 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_addCustomer.py::Test_003_AddCustomer::test_addCustomer</td>
+          <td class="col-duration">38.20</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_addCustomer.py:25 ************* Test_003_AddCustomer **********
+INFO     root:test_addCustomer.py:34 ************* Login succesful **********
+INFO     root:test_addCustomer.py:36 ******* Starting Add Customer Test **********
+INFO     root:test_addCustomer.py:44 ************* Providing customer info **********
+INFO     root:test_addCustomer.py:59 ************* Saving customer info **********
+INFO     root:test_addCustomer.py:61 ********* Add customer validation started *****************
+INFO     root:test_addCustomer.py:69 ********* Add customer Test Passed *********
+INFO     root:test_addCustomer.py:76 ******* Ending Add customer test **********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_login.py::Test_001_Login::test_homePageTitle</td>
+          <td class="col-duration">7.71</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:15 ************ Test_001_Login **************
+INFO     root:test_login.py:16 ************ Verifying Home Page Title **************
+INFO     root:test_login.py:23 ********** Home Page Title Test is passed ***********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_login.py::Test_001_Login::test_login</td>
+          <td class="col-duration">13.48</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:32 ********** Verifying Login Test ***********
+INFO     root:test_login.py:43 ********** Verifying Login Test is passed ***********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
           <td class="col-name">testCases/test_login_ddt.py::Test_002_DDT_Login::test_login_ddt</td>
-          <td class="col-duration">37.78</td>
+          <td class="col-duration">41.50</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
@@ -306,4 +346,18 @@ INFO     root:test_login_ddt.py:55 ***** passed *****
 INFO     root:test_login_ddt.py:55 ***** passed *****
 INFO     root:test_login_ddt.py:59 Login DDT test passed....
 INFO     root:test_login_ddt.py:65 ********** End of Login DDT Test **********
-INFO     root:test_login_ddt.py:66 ********** Completed TC_LoginDDT_002 **********<br/></div></td></tr></tbody></table></body></html>
+INFO     root:test_login_ddt.py:66 ********** Completed TC_LoginDDT_002 **********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">testCases/test_searchCustomerByEmail.py::Test_SearchCustomerByEmail_004::test_searchCustomerByEmail</td>
+          <td class="col-duration">22.26</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Launching Chrome browser.................
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_searchCustomerByEmail.py:17 ************* SearchCustomerByEmail_004 **********
+INFO     root:test_searchCustomerByEmail.py:26 ************* Login succesful **********
+INFO     root:test_searchCustomerByEmail.py:28 ******* Starting Search Customer By Email **********
+INFO     root:test_searchCustomerByEmail.py:34 ************* searching customer by emailID **********
+INFO     root:test_searchCustomerByEmail.py:42 ***************  TC_SearchCustomerByEmail_004 Finished  ***********<br/></div></td></tr></tbody></table></body></html>

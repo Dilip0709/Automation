@@ -153,3 +153,329 @@
 2023-03-27 01:18:51,250 - root - INFO - Login DDT test passed....
 2023-03-27 01:18:51,250 - root - INFO - ********** End of Login DDT Test **********
 2023-03-27 01:18:51,250 - root - INFO - ********** Completed TC_LoginDDT_002 **********
+2023-03-28 13:48:46,593 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 13:49:01,950 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 13:49:11,340 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 13:56:20,261 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 13:58:06,610 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:40:07,807 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:40:28,488 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:42:57,589 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:43:34,889 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:43:55,575 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:44:39,993 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 14:52:49,196 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:05:00,883 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:10:54,779 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:11:55,984 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:12:28,604 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:18:24,590 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:19:15,193 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:20:07,763 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:21:26,459 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:23:42,999 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:35:32,129 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:39:50,825 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:41:49,260 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:45:43,295 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:48:06,436 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:48:56,919 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:52:29,471 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 15:59:19,407 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 20:32:34,065 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:06:39,139 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:07:31,280 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:08:34,549 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:15:06,841 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:17:00,390 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:18:24,169 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:19:20,119 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:21:42,593 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:23:15,186 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:53:25,737 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 21:55:04,224 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:02:28,371 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:02:37,183 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Dilip\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-03-28 22:05:54,356 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:05:57,841 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Dilip\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2023-03-28 22:07:09,058 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:08:06,359 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:29:55,233 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 22:47:55,661 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 23:16:38,227 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 23:18:18,238 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-28 23:19:50,030 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:45:06,623 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:45:46,810 - root - INFO - ************* Login succesful **********
+2023-03-29 13:45:46,811 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 13:46:53,135 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:47:37,770 - root - INFO - ************* Login succesful **********
+2023-03-29 13:47:37,771 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 13:49:06,154 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:49:49,666 - root - INFO - ************* Login succesful **********
+2023-03-29 13:49:49,666 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 13:50:51,294 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:51:38,285 - root - INFO - ************* Login succesful **********
+2023-03-29 13:51:38,285 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 13:59:06,519 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 13:59:19,221 - root - INFO - ************* Login succesful **********
+2023-03-29 13:59:19,222 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:02:09,397 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:02:23,128 - root - INFO - ************* Login succesful **********
+2023-03-29 14:02:23,128 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:02:28,452 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:02:42,300 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:02:42,301 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:03:17,057 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:03:29,993 - root - INFO - ************* Login succesful **********
+2023-03-29 14:03:29,993 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:03:34,184 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:03:47,588 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:03:47,599 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:04:46,887 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:05:02,760 - root - INFO - ************* Login succesful **********
+2023-03-29 14:05:02,760 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:05:08,936 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:05:21,949 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:05:21,950 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:08:44,930 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:09:35,717 - root - INFO - ************* Login succesful **********
+2023-03-29 14:09:35,718 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:10:06,322 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:10:20,720 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:10:20,720 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:12:31,572 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:12:46,530 - root - INFO - ************* Login succesful **********
+2023-03-29 14:12:46,530 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:12:51,482 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:13:04,513 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:13:04,513 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:18:54,283 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:19:09,680 - root - INFO - ************* Login succesful **********
+2023-03-29 14:19:09,680 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:19:14,077 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:19:27,781 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:19:27,781 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:19:53,298 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 14:20:06,899 - root - INFO - ************* Login succesful **********
+2023-03-29 14:20:06,899 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 14:20:11,124 - root - INFO - ************* Providing customer info **********
+2023-03-29 14:20:24,435 - root - INFO - ************* Saving customer info **********
+2023-03-29 14:20:24,436 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 14:20:24,790 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 14:20:25,220 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:00:14,703 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:00:30,991 - root - INFO - ************* Login succesful **********
+2023-03-29 15:00:30,991 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:00:36,746 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:00:50,213 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:00:50,213 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:00:50,553 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:00:51,155 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:01:15,360 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:01:34,624 - root - INFO - ************* Login succesful **********
+2023-03-29 15:01:34,624 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:01:43,421 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:01:57,274 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:01:57,277 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:01:57,656 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:01:58,076 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:02:58,397 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:03:13,333 - root - INFO - ************* Login succesful **********
+2023-03-29 15:03:13,348 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:03:18,693 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:03:32,063 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:03:32,063 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:03:32,580 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:03:32,940 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:04:53,574 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:05:08,070 - root - INFO - ************* Login succesful **********
+2023-03-29 15:05:08,070 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:05:16,045 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:05:29,265 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:05:29,265 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:05:29,622 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:05:30,005 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:05:57,006 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:06:11,813 - root - INFO - ************* Login succesful **********
+2023-03-29 15:06:11,813 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:06:17,593 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:06:32,033 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:06:32,033 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:06:32,368 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:06:32,762 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:08:48,007 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:09:16,164 - root - INFO - ************* Login succesful **********
+2023-03-29 15:09:16,164 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:09:24,706 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:09:37,997 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:09:37,998 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:09:38,446 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:09:38,834 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:11:25,489 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 15:11:39,661 - root - INFO - ************* Login succesful **********
+2023-03-29 15:11:39,661 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 15:11:44,361 - root - INFO - ************* Providing customer info **********
+2023-03-29 15:11:57,389 - root - INFO - ************* Saving customer info **********
+2023-03-29 15:11:57,389 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 15:11:58,254 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 15:11:59,727 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 15:14:59,293 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:15:10,897 - root - INFO - ************* Login succesful **********
+2023-03-29 15:15:10,898 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:15:12,873 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:22:26,869 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:22:35,435 - root - INFO - ************* Login succesful **********
+2023-03-29 15:22:35,435 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:22:37,587 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:28:46,074 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:30:42,087 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:30:52,084 - root - INFO - ************* Login succesful **********
+2023-03-29 15:30:52,084 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:30:54,965 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:41:40,277 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:41:56,322 - root - INFO - ************* Login succesful **********
+2023-03-29 15:41:56,322 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:42:00,453 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:46:25,667 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:46:36,517 - root - INFO - ************* Login succesful **********
+2023-03-29 15:46:36,517 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:46:39,396 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:49:35,424 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:49:46,078 - root - INFO - ************* Login succesful **********
+2023-03-29 15:49:46,078 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:49:48,434 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:50:24,534 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:50:35,488 - root - INFO - ************* Login succesful **********
+2023-03-29 15:50:35,488 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:50:37,429 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:53:13,756 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:53:23,038 - root - INFO - ************* Login succesful **********
+2023-03-29 15:53:23,038 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:53:25,460 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:58:49,284 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 15:59:00,770 - root - INFO - ************* Login succesful **********
+2023-03-29 15:59:00,771 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 15:59:03,051 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 15:59:53,982 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:00:06,580 - root - INFO - ************* Login succesful **********
+2023-03-29 16:00:06,581 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:00:09,294 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:00:57,706 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:01:09,238 - root - INFO - ************* Login succesful **********
+2023-03-29 16:01:09,239 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:01:11,823 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:01:17,875 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-03-29 16:02:39,949 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:02:52,541 - root - INFO - ************* Login succesful **********
+2023-03-29 16:02:52,541 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:02:55,275 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:03:01,428 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-03-29 16:03:32,268 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 16:03:32,268 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 16:03:32,268 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 16:03:32,268 - root - INFO - ************* Test_003_AddCustomer **********
+2023-03-29 16:03:47,905 - root - INFO - ************* Login succesful **********
+2023-03-29 16:03:47,905 - root - INFO - ************* Login succesful **********
+2023-03-29 16:03:47,905 - root - INFO - ************* Login succesful **********
+2023-03-29 16:03:47,905 - root - INFO - ************* Login succesful **********
+2023-03-29 16:03:47,905 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 16:03:47,905 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 16:03:47,905 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 16:03:47,905 - root - INFO - ******* Starting Add Customer Test **********
+2023-03-29 16:03:54,511 - root - INFO - ************* Providing customer info **********
+2023-03-29 16:03:54,511 - root - INFO - ************* Providing customer info **********
+2023-03-29 16:03:54,511 - root - INFO - ************* Providing customer info **********
+2023-03-29 16:03:54,511 - root - INFO - ************* Providing customer info **********
+2023-03-29 16:04:07,571 - root - INFO - ************* Saving customer info **********
+2023-03-29 16:04:07,571 - root - INFO - ************* Saving customer info **********
+2023-03-29 16:04:07,571 - root - INFO - ************* Saving customer info **********
+2023-03-29 16:04:07,571 - root - INFO - ************* Saving customer info **********
+2023-03-29 16:04:07,571 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 16:04:07,571 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 16:04:07,571 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 16:04:07,571 - root - INFO - ********* Add customer validation started *****************
+2023-03-29 16:04:07,921 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 16:04:07,921 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 16:04:07,921 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 16:04:07,921 - root - INFO - ********* Add customer Test Passed *********
+2023-03-29 16:04:08,354 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 16:04:08,354 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 16:04:08,354 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 16:04:08,354 - root - INFO - ******* Ending Add customer test **********
+2023-03-29 16:04:10,490 - root - INFO - ************ Test_001_Login **************
+2023-03-29 16:04:10,490 - root - INFO - ************ Test_001_Login **************
+2023-03-29 16:04:10,490 - root - INFO - ************ Test_001_Login **************
+2023-03-29 16:04:10,490 - root - INFO - ************ Test_001_Login **************
+2023-03-29 16:04:10,491 - root - INFO - ************ Verifying Home Page Title **************
+2023-03-29 16:04:10,491 - root - INFO - ************ Verifying Home Page Title **************
+2023-03-29 16:04:10,491 - root - INFO - ************ Verifying Home Page Title **************
+2023-03-29 16:04:10,491 - root - INFO - ************ Verifying Home Page Title **************
+2023-03-29 16:04:16,076 - root - INFO - ********** Home Page Title Test is passed ***********
+2023-03-29 16:04:16,076 - root - INFO - ********** Home Page Title Test is passed ***********
+2023-03-29 16:04:16,076 - root - INFO - ********** Home Page Title Test is passed ***********
+2023-03-29 16:04:16,076 - root - INFO - ********** Home Page Title Test is passed ***********
+2023-03-29 16:04:18,176 - root - INFO - ********** Verifying Login Test ***********
+2023-03-29 16:04:18,176 - root - INFO - ********** Verifying Login Test ***********
+2023-03-29 16:04:18,176 - root - INFO - ********** Verifying Login Test ***********
+2023-03-29 16:04:18,176 - root - INFO - ********** Verifying Login Test ***********
+2023-03-29 16:04:29,206 - root - INFO - ********** Verifying Login Test is passed ***********
+2023-03-29 16:04:29,206 - root - INFO - ********** Verifying Login Test is passed ***********
+2023-03-29 16:04:29,206 - root - INFO - ********** Verifying Login Test is passed ***********
+2023-03-29 16:04:29,206 - root - INFO - ********** Verifying Login Test is passed ***********
+2023-03-29 16:04:31,640 - root - INFO - ********** Test_002_DDT_Login ************
+2023-03-29 16:04:31,640 - root - INFO - ********** Test_002_DDT_Login ************
+2023-03-29 16:04:31,640 - root - INFO - ********** Test_002_DDT_Login ************
+2023-03-29 16:04:31,640 - root - INFO - ********** Test_002_DDT_Login ************
+2023-03-29 16:04:31,646 - root - INFO - ********** Verifying Login DDT Test ***********
+2023-03-29 16:04:31,646 - root - INFO - ********** Verifying Login DDT Test ***********
+2023-03-29 16:04:31,646 - root - INFO - ********** Verifying Login DDT Test ***********
+2023-03-29 16:04:31,646 - root - INFO - ********** Verifying Login DDT Test ***********
+2023-03-29 16:04:47,266 - root - INFO - ******** Passed *******
+2023-03-29 16:04:47,266 - root - INFO - ******** Passed *******
+2023-03-29 16:04:47,266 - root - INFO - ******** Passed *******
+2023-03-29 16:04:47,266 - root - INFO - ******** Passed *******
+2023-03-29 16:04:56,239 - root - INFO - ***** passed *****
+2023-03-29 16:04:56,239 - root - INFO - ***** passed *****
+2023-03-29 16:04:56,239 - root - INFO - ***** passed *****
+2023-03-29 16:04:56,239 - root - INFO - ***** passed *****
+2023-03-29 16:05:03,724 - root - INFO - ***** passed *****
+2023-03-29 16:05:03,724 - root - INFO - ***** passed *****
+2023-03-29 16:05:03,724 - root - INFO - ***** passed *****
+2023-03-29 16:05:03,724 - root - INFO - ***** passed *****
+2023-03-29 16:05:11,072 - root - INFO - ***** passed *****
+2023-03-29 16:05:11,072 - root - INFO - ***** passed *****
+2023-03-29 16:05:11,072 - root - INFO - ***** passed *****
+2023-03-29 16:05:11,072 - root - INFO - ***** passed *****
+2023-03-29 16:05:11,072 - root - INFO - Login DDT test passed....
+2023-03-29 16:05:11,072 - root - INFO - Login DDT test passed....
+2023-03-29 16:05:11,072 - root - INFO - Login DDT test passed....
+2023-03-29 16:05:11,072 - root - INFO - Login DDT test passed....
+2023-03-29 16:05:11,073 - root - INFO - ********** End of Login DDT Test **********
+2023-03-29 16:05:11,073 - root - INFO - ********** End of Login DDT Test **********
+2023-03-29 16:05:11,073 - root - INFO - ********** End of Login DDT Test **********
+2023-03-29 16:05:11,073 - root - INFO - ********** End of Login DDT Test **********
+2023-03-29 16:05:11,073 - root - INFO - ********** Completed TC_LoginDDT_002 **********
+2023-03-29 16:05:11,073 - root - INFO - ********** Completed TC_LoginDDT_002 **********
+2023-03-29 16:05:11,073 - root - INFO - ********** Completed TC_LoginDDT_002 **********
+2023-03-29 16:05:11,073 - root - INFO - ********** Completed TC_LoginDDT_002 **********
+2023-03-29 16:05:13,168 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:05:13,168 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:05:13,168 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:05:13,168 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-03-29 16:05:24,823 - root - INFO - ************* Login succesful **********
+2023-03-29 16:05:24,823 - root - INFO - ************* Login succesful **********
+2023-03-29 16:05:24,823 - root - INFO - ************* Login succesful **********
+2023-03-29 16:05:24,823 - root - INFO - ************* Login succesful **********
+2023-03-29 16:05:24,823 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:05:24,823 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:05:24,823 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:05:24,823 - root - INFO - ******* Starting Search Customer By Email **********
+2023-03-29 16:05:27,297 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:05:27,297 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:05:27,297 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:05:27,297 - root - INFO - ************* searching customer by emailID **********
+2023-03-29 16:05:33,328 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-03-29 16:05:33,328 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-03-29 16:05:33,328 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-03-29 16:05:33,328 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 

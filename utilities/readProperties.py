@@ -1,5 +1,6 @@
 import configparser
 
+
 config = configparser.RawConfigParser()
 config.read(".\\Configurations\\config.ini")
 
@@ -8,6 +9,7 @@ class ReadConfig:
     def getApplicationURL():
         url = config.get('common info','baseURL')
         return url
+    
     
     @staticmethod
     def getUseremail():
